@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aerospace | Victor</title>
+    <link>https://example.com/en/tag/aerospace/</link>
+      <atom:link href="https://example.com/en/tag/aerospace/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aerospace</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Victor Santos</copyright><lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Aerospace</title>
+      <link>https://example.com/en/tag/aerospace/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of Aerospace Structures</title>
+      <link>https://example.com/en/project/lab-helio/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/project/lab-helio/</guid>
+      <description>&lt;p&gt;Undergraduate Research project;&lt;/p&gt;
+&lt;p&gt;Description – Research on the Panel Flutter phenomena on
+aerospace structures. Developing a pre-processor, aerodynamic mesh
+generation and post-processor method, to model a supersonic panel
+flutter on Nastran solver. Flutter is investigated numerically in
+metallic and composite plates;&lt;/p&gt;
+&lt;p&gt;Papers: COBEM 2019 and CILAMCE 2020;&lt;/p&gt;
+&lt;p&gt;Techs: Python, Nastran and Femap;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brazilian Student Society for Aerospace R&amp;D</title>
+      <link>https://example.com/en/project/bssaero/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/project/bssaero/</guid>
+      <description>&lt;p&gt;Description – A group of engineering students and researchers from
+Brazil who believe in user freedom, open-source, and the maker
+culture. The mission is to contribute to aerospace-related projects,
+and develop better and more democratic technology for the future;&lt;/p&gt;
+&lt;p&gt;Techs: mainly Python, Matlab and Julia&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Educational Rocket Structure</title>
+      <link>https://example.com/en/project/turborocket/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/project/turborocket/</guid>
+      <description>&lt;p&gt;Extension project;&lt;/p&gt;
+&lt;p&gt;Description – Structural project, stress and aeroelastic analysis of the
+rocket’s fins to a Brazilian model rocket project in order to compete in
+the Spaceport America Cup;&lt;/p&gt;
+&lt;p&gt;Techs: Femap, Nastran, Solidworks and Hypermesh;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
