@@ -29,12 +29,16 @@ publication_types: ["1"]
 publication: In *25th International Congress of Mechanical Engineering*
 publication_short: In *XXV COBEM 2019*
 
-abstract: test
+abstract: The given paper describes and verifies the possibilities of a pre-processing and post-processing method to model supersonic panel flutter problem through Finite Element Method on NASTRAN solver.  The aerodynamic model uses a discretized third-order Piston Theory. The method utilizes the Python Language Framework to pre-process the model and post-process the results.  The aeroelastic instability boundary, known as flutter, is investigated in a sample problem of a flat square plate under supersonic flow.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags:
+  - panel flutter
+  - aeroelasticity
+  - piston theory
+  - nastran
 
 # Display this page in the Featured widget?
 featured: false
@@ -56,7 +60,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'The deformed shape of a metallic plate under supersonic flutter conditions.'
   focal_point: ""
   preview_only: false
 
@@ -65,7 +69,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+  - lab-helio
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -74,13 +79,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

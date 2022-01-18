@@ -14,7 +14,6 @@ author_notes:
 - "Equal contribution"
 
 date: "2020-11-01T00:00:00Z"
-doi: ""
 issn: 2675-6269
 
 # Schedule page publish date (NOT publication's date).
@@ -30,12 +29,16 @@ publication_types: ["1"]
 publication: In *XLI Ibero-Latin American Congress on Computational Methods in Engineering*
 publication_short: In *XLI CILAMCE 2020*
 
-abstract: test
+abstract: Panel Flutter is an aeroelastic instability of plates and shells of aerospace vehicles. The phenomena have recently grown of interest as the increased efforts to make supersonic and hypersonic flight viable in the upper layers of the atmosphere. Many results are available in the literature using customized programs to study panel flutter with non-linear structural and aerodynamics models. In this work, the third-order Piston Theory is used in the supersonic panel flutter analysis and an evaluation of the NASTRAN capabilities. Later, the mesh convergence study and, subsequentially, the flutter analysis of a metallic and a composite laminated plate is performed. The obtained results show a good agreement with the literature and, therefore, demonstrate the capability of the methodology for the cases developed in this work.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags:
+  - Panel Flutter
+  - Nastran
+  - Laminated
+  - Composite
 
 # Display this page in the Featured widget?
 featured: false
@@ -57,7 +60,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Critical Dynamic Pressure vs. Laminate angle'
   focal_point: ""
   preview_only: false
 
@@ -66,7 +69,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+  - lab-helio
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -75,13 +79,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

@@ -42,16 +42,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:me@zuckberj.page'
-- icon: twitter
+  link: 'mailto:me@victorsds.page'
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/zuckberj
+- icon: orcid  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fab
-  link: https://twitter.com/zuckberj
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link:  https://orcid.org/0000-0003-2776-0053
 - icon: github
   icon_pack: fab
-  link: https://github.com/zuckberj
+  link: https://github.com/victorsds
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/victor-santos-aero
@@ -64,7 +64,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "victorsilva223@gmail.com"
+# email: "victorsilva223@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

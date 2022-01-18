@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Victor</title>
-    <link>https://nifty-roentgen-526e96.netlify.app/en/</link>
-      <atom:link href="https://nifty-roentgen-526e96.netlify.app/en/index.xml" rel="self" type="application/rss+xml" />
+    <link>victorsds.page/en/</link>
+      <atom:link href="victorsds.page/en/index.xml" rel="self" type="application/rss+xml" />
     <description>Victor</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Victor Santos</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nifty-roentgen-526e96.netlify.app/media/icon_hue2e588dda3f3db7e6e37af6f12a9656d_8157_512x512_fill_lanczos_center_3.png</url>
+      <url>/victorsds.page/media/icon_hue2e588dda3f3db7e6e37af6f12a9656d_8157_512x512_fill_lanczos_center_3.png</url>
       <title>Victor</title>
-      <link>https://nifty-roentgen-526e96.netlify.app/en/</link>
+      <link>victorsds.page/en/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://nifty-roentgen-526e96.netlify.app/en/talk/example-talk/</link>
+      <link>victorsds.page/en/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://nifty-roentgen-526e96.netlify.app/en/talk/example-talk/</guid>
+      <guid>victorsds.page/en/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://nifty-roentgen-526e96.netlify.app/en/post/getting-started/</link>
+      <link>victorsds.page/en/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://nifty-roentgen-526e96.netlify.app/en/post/getting-started/</guid>
+      <guid>victorsds.page/en/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -111,47 +111,25 @@
     
     <item>
       <title>Use of Third-Order Piston Theory in Panel Flutter Analysis on Composite Laminated Plates with NASTRAN</title>
-      <link>https://nifty-roentgen-526e96.netlify.app/en/publication/cilamce2020/</link>
+      <link>victorsds.page/en/publication/cilamce2020/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://nifty-roentgen-526e96.netlify.app/en/publication/cilamce2020/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>victorsds.page/en/publication/cilamce2020/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Finite Element Method Modeling of Supersonic Panel Flutter with Piston Theory</title>
-      <link>https://nifty-roentgen-526e96.netlify.app/en/publication/cobem2019/</link>
+      <link>victorsds.page/en/publication/cobem2019/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://nifty-roentgen-526e96.netlify.app/en/publication/cobem2019/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>victorsds.page/en/publication/cobem2019/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://nifty-roentgen-526e96.netlify.app/en/slides/example/</link>
+      <link>victorsds.page/en/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://nifty-roentgen-526e96.netlify.app/en/slides/example/</guid>
+      <guid>victorsds.page/en/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -278,9 +256,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Analysis of Aerospace Structures</title>
-      <link>https://nifty-roentgen-526e96.netlify.app/en/project/lab-helio/</link>
+      <link>victorsds.page/en/project/lab-helio/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://nifty-roentgen-526e96.netlify.app/en/project/lab-helio/</guid>
+      <guid>victorsds.page/en/project/lab-helio/</guid>
       <description>&lt;p&gt;Undergraduate Research project;&lt;/p&gt;
 &lt;p&gt;Description – Research on the Panel Flutter phenomena on
 aerospace structures. Developing a pre-processor, aerodynamic mesh
@@ -294,9 +272,9 @@ metallic and composite plates;&lt;/p&gt;
     
     <item>
       <title>Brazilian Student Society for Aerospace R&amp;D</title>
-      <link>https://nifty-roentgen-526e96.netlify.app/en/project/bssaero/</link>
+      <link>victorsds.page/en/project/bssaero/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://nifty-roentgen-526e96.netlify.app/en/project/bssaero/</guid>
+      <guid>victorsds.page/en/project/bssaero/</guid>
       <description>&lt;p&gt;Description – A group of engineering students and researchers from
 Brazil who believe in user freedom, open-source, and the maker
 culture. The mission is to contribute to aerospace-related projects,
@@ -307,9 +285,9 @@ and develop better and more democratic technology for the future;&lt;/p&gt;
     
     <item>
       <title>Structure of a Educational Rocket</title>
-      <link>https://nifty-roentgen-526e96.netlify.app/en/project/turborocket/</link>
+      <link>victorsds.page/en/project/turborocket/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://nifty-roentgen-526e96.netlify.app/en/project/turborocket/</guid>
+      <guid>victorsds.page/en/project/turborocket/</guid>
       <description>&lt;p&gt;Extension project;&lt;/p&gt;
 &lt;p&gt;Description – Structural project, stress and aeroelastic analysis of the
 rocket’s fins to a Brazilian model rocket project in order to compete in
@@ -320,9 +298,9 @@ the Spaceport America Cup;&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://nifty-roentgen-526e96.netlify.app/en/admin/config.yml</link>
+      <link>victorsds.page/en/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nifty-roentgen-526e96.netlify.app/en/admin/config.yml</guid>
+      <guid>victorsds.page/en/admin/config.yml</guid>
       <description></description>
     </item>
     
