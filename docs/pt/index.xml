@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Victor</title>
-    <link>victorsds.page/pt/</link>
-      <atom:link href="victorsds.page/pt/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://victorsds.page/pt/</link>
+      <atom:link href="https://victorsds.page/pt/index.xml" rel="self" type="application/rss+xml" />
     <description>Victor</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-BR</language><copyright>© 2022 Victor Santos</copyright>
     <image>
-      <url>/victorsds.page/media/icon_hue2e588dda3f3db7e6e37af6f12a9656d_8157_512x512_fill_lanczos_center_3.png</url>
+      <url>https://victorsds.page/media/icon_hue2e588dda3f3db7e6e37af6f12a9656d_8157_512x512_fill_lanczos_center_3.png</url>
       <title>Victor</title>
-      <link>victorsds.page/pt/</link>
+      <link>https://victorsds.page/pt/</link>
     </image>
     
   </channel>

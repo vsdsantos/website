@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>piston theory | Victor</title>
-    <link>victorsds.page/en/tag/piston-theory/</link>
-      <atom:link href="victorsds.page/en/tag/piston-theory/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://victorsds.page/en/tag/piston-theory/</link>
+      <atom:link href="https://victorsds.page/en/tag/piston-theory/index.xml" rel="self" type="application/rss+xml" />
     <description>piston theory</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Victor Santos</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/victorsds.page/media/icon_hue2e588dda3f3db7e6e37af6f12a9656d_8157_512x512_fill_lanczos_center_3.png</url>
+      <url>https://victorsds.page/media/icon_hue2e588dda3f3db7e6e37af6f12a9656d_8157_512x512_fill_lanczos_center_3.png</url>
       <title>piston theory</title>
-      <link>victorsds.page/en/tag/piston-theory/</link>
+      <link>https://victorsds.page/en/tag/piston-theory/</link>
     </image>
     
     <item>
       <title>Finite Element Method Modeling of Supersonic Panel Flutter with Piston Theory</title>
-      <link>victorsds.page/en/publication/cobem2019/</link>
+      <link>https://victorsds.page/en/publication/cobem2019/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>victorsds.page/en/publication/cobem2019/</guid>
+      <guid>https://victorsds.page/en/publication/cobem2019/</guid>
       <description></description>
     </item>
     
