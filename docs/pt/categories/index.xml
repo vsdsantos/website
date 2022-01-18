@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Victor</title>
+    <link>https://nifty-roentgen-526e96.netlify.app/pt/categories/</link>
+      <atom:link href="https://nifty-roentgen-526e96.netlify.app/pt/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-BR</language><copyright>© 2022 Victor Santos</copyright>
+    <image>
+      <url>https://nifty-roentgen-526e96.netlify.app/media/icon_hue2e588dda3f3db7e6e37af6f12a9656d_8157_512x512_fill_lanczos_center_3.png</url>
+      <title>Categories</title>
+      <link>https://nifty-roentgen-526e96.netlify.app/pt/categories/</link>
+    </image>
+    
+  </channel>
+</rss>

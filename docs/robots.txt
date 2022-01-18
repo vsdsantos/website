@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://nifty-roentgen-526e96.netlify.app/sitemap.xml
