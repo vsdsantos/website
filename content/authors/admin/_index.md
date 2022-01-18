@@ -16,7 +16,7 @@ organizations:
   url: https://www.ufmg.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Young Brazilian passionate about airplanes, spacecrafts and other cultures.
 
 # Interests to show in About widget
 interests:
@@ -70,13 +70,12 @@ email: "victorsilva223@gmail.com"
 highlight_name: true
 ---
 
-Hey! I'm a passionate student in the aerospace engineering field and currently works as a
+Hello! Welcome to my page. I'm a passionate student in the aerospace engineering field and currently works as a
 stress analysis intern at Embraer. My research interests includes
 aerospace structures, composite and laminated structures, aeroelasticity and novel computational
 methods.
 
-I've worked, so far, with software development and project management with multiple technologies,
-e.g. JS, Python, Julia, C#. Furthermore, I've experience in FEM modelling of metallic and composite
+I've worked, so far, with software development (academic and professionally) and with project management. Mostly technologies that I'm used to work are Python, Julia, C#, JS and VBA. Furthermore, I've experience in FEM modelling of metallic and composite
 structures in Nastran with Femap and Altair software suits.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

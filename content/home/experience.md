@@ -77,7 +77,7 @@ experience:
 
   - title: Team Member
     company: UFMG's Aerodesign Competition Team -- Uai, sô! Fly!
-    company_url: 'https://demec.ufmg.br'
+    company_url: 'https://usfaerodesign.eng.ufmg.br'
     company_logo: usf
     location: Belo Horizonte - Brazil
     date_start: '2017-01-01'
@@ -93,7 +93,7 @@ experience:
 
   - title: Team Leader
     company: UFMG's Rocket Design Team --  DPE/Fênix
-    company_url: 'https://demec.ufmg.br'
+    company_url: 'https://sites.google.com/view/fenixufmg'
     company_logo: dpe
     location: Belo Horizonte - Brazil
     date_start: '2016-08-01'

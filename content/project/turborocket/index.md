@@ -1,5 +1,5 @@
 ---
-title: Educational Rocket Structure
+title: Structure of a Educational Rocket
 summary: Participation on the TurboRocket Project
 tags:
 - Aerospace
@@ -31,4 +31,4 @@ Description – Structural project, stress and aeroelastic analysis of the
 rocket’s fins to a Brazilian model rocket project in order to compete in
 the Spaceport America Cup;
 
-Techs: Femap, Nastran, Solidworks and Hypermesh;
+Techs: Femap, Nastran and Hypermesh;
