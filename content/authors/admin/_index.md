@@ -20,7 +20,8 @@ bio: Young Brazilian passionate about airplanes, spacecrafts and other cultures.
 
 # Interests to show in About widget
 interests:
-- Aerospace Structures
+- Aerospace Engineering
+- Software Engineering
 - Composite Materials
 - Aeroelasticity
 - Computational Methods
