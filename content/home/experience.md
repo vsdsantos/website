@@ -30,11 +30,11 @@ experience:
     date_start: '2021-03-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
 
-        * Analysing
-        * Modelling
-        * Deploying
+      - Stress and fatigue analysis of Embraer's aircraft components considering, static, thermal and dynamic loads.
+      - FEM model management and producing technical reports.
+      - Development of engineering tools.
+      - UI development for data analysis and BI. 
 
   - title: Tech Lead
     company: Highlight

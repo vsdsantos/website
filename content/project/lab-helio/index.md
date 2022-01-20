@@ -1,8 +1,9 @@
 ---
-title: Analysis of Aerospace Structures
-summary: An example of using the in-built project page.
+title: Stability of Aerospace Structures
+summary: Project under the Aerospace Structure's Lab studying the (in)stability of aerospace structures
 tags:
 - Aerospace
+- Structures
 date: "2018-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -12,8 +13,8 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links: []
-url_code: ""
+links:
+url_code: "https://github.com/vsdsantos/nastran-aeroelasticity"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -26,14 +27,14 @@ url_video: ""
 slides: ""
 ---
 
-Undergraduate Research project;
+Undergraduate Research project under the [Aerospace Structure's Lab](https://www.researchgate.net/lab/Helio-Pegado-Lab)
+oriented by [Professor D.Eng. Helio Pegado](https://www.researchgate.net/profile/Helio-Pegado).
 
-Description – Research on the Panel Flutter phenomena on
+## Description
+Research on the Panel Flutter phenomena on
 aerospace structures. Developing a pre-processor, aerodynamic mesh
 generation and post-processor method, to model a supersonic panel
 flutter on Nastran solver. Flutter is investigated numerically in
 metallic and composite plates;
 
-Papers: COBEM 2019 and CILAMCE 2020;
-
-Techs: Python, Nastran and Femap;
+Using Python and Nastran;

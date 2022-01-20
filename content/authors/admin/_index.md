@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:me@victorsds.page'
+  link: 'mailto:victorsds@pm.me'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/zuckberj
@@ -51,10 +51,13 @@ social:
   link:  https://orcid.org/0000-0003-2776-0053
 - icon: github
   icon_pack: fab
-  link: https://github.com/victorsds
+  link: https://github.com/vsdsantos
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/victor-santos-aero
+- icon: keybase
+  icon_pack: fab
+  link: https://keybase.io/victorsds
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -67,7 +70,7 @@ social:
 # email: "victorsilva223@gmail.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
 Hello! Welcome to my page. I'm a passionate student in the aerospace engineering field and currently works as a
@@ -78,4 +81,4 @@ methods.
 I've worked, so far, with software development (academic and professionally) and with project management. Mostly technologies that I'm used to work are Python, Julia, C#, JS and VBA. Furthermore, I've experience in FEM modelling of metallic and composite
 structures in Nastran with Femap and Altair software suits.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

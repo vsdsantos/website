@@ -19,7 +19,7 @@ feature:
 - description: 80%
   icon: python
   icon_pack: fab
-  name: Python
+  name: Programming
 - description: 90%
   icon: rocket
   icon_pack: fas

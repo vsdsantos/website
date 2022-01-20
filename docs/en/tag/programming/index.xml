@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming | Victor</title>
+    <link>https://victorsds.page/en/tag/programming/</link>
+      <atom:link href="https://victorsds.page/en/tag/programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Programming</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Victor Santos[PGP PUBLIC KEY]</copyright><lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://victorsds.page/media/icon_hue2e588dda3f3db7e6e37af6f12a9656d_8157_512x512_fill_lanczos_center_3.png</url>
+      <title>Programming</title>
+      <link>https://victorsds.page/en/tag/programming/</link>
+    </image>
+    
+    <item>
+      <title>Brazilian Student Society for Aerospace R&amp;D</title>
+      <link>https://victorsds.page/en/project/bssaero/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://victorsds.page/en/project/bssaero/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;A group of engineering students and researchers from
+Brazil who believe in user freedom, open-source, and the maker
+culture. The mission is to contribute to aerospace-related projects,
+and develop better and more democratic technology for the future;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

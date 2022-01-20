@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Structures | Victor</title>
+    <link>https://victorsds.page/en/tag/structures/</link>
+      <atom:link href="https://victorsds.page/en/tag/structures/index.xml" rel="self" type="application/rss+xml" />
+    <description>Structures</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Victor Santos[PGP PUBLIC KEY]</copyright><lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://victorsds.page/media/icon_hue2e588dda3f3db7e6e37af6f12a9656d_8157_512x512_fill_lanczos_center_3.png</url>
+      <title>Structures</title>
+      <link>https://victorsds.page/en/tag/structures/</link>
+    </image>
+    
+    <item>
+      <title>Stability of Aerospace Structures</title>
+      <link>https://victorsds.page/en/project/lab-helio/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://victorsds.page/en/project/lab-helio/</guid>
+      <description>&lt;p&gt;Undergraduate Research project under the &lt;a href=&#34;https://www.researchgate.net/lab/Helio-Pegado-Lab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aerospace Structure&amp;rsquo;s Lab&lt;/a&gt;
+oriented by &lt;a href=&#34;https://www.researchgate.net/profile/Helio-Pegado&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Professor D.Eng. Helio Pegado&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Research on the Panel Flutter phenomena on
+aerospace structures. Developing a pre-processor, aerodynamic mesh
+generation and post-processor method, to model a supersonic panel
+flutter on Nastran solver. Flutter is investigated numerically in
+metallic and composite plates;&lt;/p&gt;
+&lt;p&gt;Using Python and Nastran;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

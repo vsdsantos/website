@@ -5,7 +5,7 @@
     <link>https://victorsds.page/en/</link>
       <atom:link href="https://victorsds.page/en/index.xml" rel="self" type="application/rss+xml" />
     <description>Victor</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Victor Santos</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Victor Santos[PGP PUBLIC KEY]</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://victorsds.page/media/icon_hue2e588dda3f3db7e6e37af6f12a9656d_8157_512x512_fill_lanczos_center_3.png</url>
       <title>Victor</title>
@@ -255,44 +255,32 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Analysis of Aerospace Structures</title>
-      <link>https://victorsds.page/en/project/lab-helio/</link>
-      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://victorsds.page/en/project/lab-helio/</guid>
-      <description>&lt;p&gt;Undergraduate Research project;&lt;/p&gt;
-&lt;p&gt;Description – Research on the Panel Flutter phenomena on
-aerospace structures. Developing a pre-processor, aerodynamic mesh
-generation and post-processor method, to model a supersonic panel
-flutter on Nastran solver. Flutter is investigated numerically in
-metallic and composite plates;&lt;/p&gt;
-&lt;p&gt;Papers: COBEM 2019 and CILAMCE 2020;&lt;/p&gt;
-&lt;p&gt;Techs: Python, Nastran and Femap;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Brazilian Student Society for Aerospace R&amp;D</title>
       <link>https://victorsds.page/en/project/bssaero/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://victorsds.page/en/project/bssaero/</guid>
-      <description>&lt;p&gt;Description – A group of engineering students and researchers from
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;A group of engineering students and researchers from
 Brazil who believe in user freedom, open-source, and the maker
 culture. The mission is to contribute to aerospace-related projects,
 and develop better and more democratic technology for the future;&lt;/p&gt;
-&lt;p&gt;Techs: mainly Python, Matlab and Julia&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Structure of a Educational Rocket</title>
-      <link>https://victorsds.page/en/project/turborocket/</link>
+      <title>Stability of Aerospace Structures</title>
+      <link>https://victorsds.page/en/project/lab-helio/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://victorsds.page/en/project/turborocket/</guid>
-      <description>&lt;p&gt;Extension project;&lt;/p&gt;
-&lt;p&gt;Description – Structural project, stress and aeroelastic analysis of the
-rocket’s fins to a Brazilian model rocket project in order to compete in
-the Spaceport America Cup;&lt;/p&gt;
-&lt;p&gt;Techs: Femap, Nastran and Hypermesh;&lt;/p&gt;
+      <guid>https://victorsds.page/en/project/lab-helio/</guid>
+      <description>&lt;p&gt;Undergraduate Research project under the &lt;a href=&#34;https://www.researchgate.net/lab/Helio-Pegado-Lab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aerospace Structure&amp;rsquo;s Lab&lt;/a&gt;
+oriented by &lt;a href=&#34;https://www.researchgate.net/profile/Helio-Pegado&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Professor D.Eng. Helio Pegado&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Research on the Panel Flutter phenomena on
+aerospace structures. Developing a pre-processor, aerodynamic mesh
+generation and post-processor method, to model a supersonic panel
+flutter on Nastran solver. Flutter is investigated numerically in
+metallic and composite plates;&lt;/p&gt;
+&lt;p&gt;Using Python and Nastran;&lt;/p&gt;
 </description>
     </item>
     

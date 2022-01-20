@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: me@zuckberj.page
+email: victorsds@pm.me
 # phone: 888 888 88 88
 # address:
 #   street: 450 Serra Mall
@@ -77,6 +77,8 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
+  - python
+  - julia
 math: false
 diagram: false
 privacy_pack: false
@@ -98,7 +100,7 @@ show_related:
 reading_time: true
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false

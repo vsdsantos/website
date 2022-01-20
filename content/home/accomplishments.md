@@ -29,16 +29,7 @@ item:
   description: ""
   organization: SAE Brasil Aerodesign 2018
   organization_url: https://saebrasil.org.br/programas-estudantis/aero-design-sae-brasil/
-  title: 3rd Place -- Regular Class
-  url: ""
-
-- certificate_url: ""
-  date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: SAE Brasil Aerodesign 2018
-  organization_url: https://saebrasil.org.br/programas-estudantis/aero-design-sae-brasil/
-  title: Best Project Award
+  title: 3rd Place -- Regular Class & Best Project Award
   url: ""
 
 - certificate_url: ""
@@ -47,16 +38,7 @@ item:
   description: ""
   organization: SAE Brasil Aerodesign 2017
   organization_url: https://saebrasil.org.br/programas-estudantis/aero-design-sae-brasil/
-  title: 8th Place -- Micro Class
-  url: ""
-
-- certificate_url: ""
-  date_end: ""
-  date_start: "2017-10-01"
-  description: ""
-  organization: SAE Brasil Aerodesign 2017
-  organization_url: https://saebrasil.org.br/programas-estudantis/aero-design-sae-brasil/
-  title: Best Technical Presentation Award
+  title: 8th Place -- Micro Class & Best Technical Presentation Award
   url: ""
 
 design:
