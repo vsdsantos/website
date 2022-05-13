@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Junior Software Engineer
+    company: Isar Aerospace
+    company_url: 'https://isaraerospace.com'
+    location: Munich - Germany
+    date_start: '2022-06-01'
+    date_end: ''
+    description: ''
+
   - title: Stress Analysis Intern
     company: Embraer S/A
     company_url: 'https://embraer.com'
