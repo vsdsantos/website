@@ -28,7 +28,7 @@ experience:
     company_logo: embraer
     location: Belo Horizonte - Brazil
     date_start: '2021-03-01'
-    date_end: ''
+    date_end: '2022-04-01'
     description: |2-
 
       - Stress and fatigue analysis of Embraer's aircraft components considering, static, thermal and dynamic loads.
