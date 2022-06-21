@@ -76,7 +76,7 @@ address_format: en-us
 
 highlight: true
 highlight_languages:
-  - r
+  - C#
   - python
   - julia
 math: false

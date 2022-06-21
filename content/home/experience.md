@@ -26,6 +26,7 @@ experience:
   - title: Junior Software Engineer
     company: Isar Aerospace
     company_url: 'https://isaraerospace.com'
+    company_logo: isar
     location: Munich - Germany
     date_start: '2022-06-01'
     date_end: ''

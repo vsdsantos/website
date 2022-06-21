@@ -10,10 +10,9 @@ role: Aerospace Engineer | Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations: []
-#- name: Embraer
-#  url: https://www.embraer.com/
-#- name: UFMG
-#  url: https://www.ufmg.br/
+#- name: Isar Aerospace
+#  url: https://www.isaraerospace.com/
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: Young Brazilian passionate about airplanes, spacecrafts and code.
